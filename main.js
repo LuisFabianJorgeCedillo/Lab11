@@ -37,7 +37,8 @@ class User {
 let users = [
     new User(1, 'John Doe', 'johndoe', 'john@example.com', 'password123', new Date(), 'john.jpg', 'admin'),
     new User(2, 'Jane Smith', 'janesmith', 'jane@example.com', 'password123', new Date(), 'jane.jpg', 'user'),
-    new User(3, 'Robert Brown', 'robbrown', 'robert@example.com', 'password123', new Date(), 'robert.jpg', 'user')
+    new User(3, 'Robert Brown', 'robbrown', 'robert@example.com', 'password123', new Date(), 'robert.jpg', 'user'),
+    new User(4, 'Luis Fabian', 'Jorge Cedillo', 'fabianciittoo@gamil.com','password123', new Date(), 'fabian.jpg', 'user')
 ];
 
 // CRUD Endpoints
